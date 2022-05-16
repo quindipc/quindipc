@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chelsea! </h1>
-<h3 align="center">A Full Stack Software Developer & Graphic Designer</h3>
-<p align-"left> I am a Graphic Designer & Software Developer. I am proficient in Front-End programming languages but my goal is to become a Full-Stack Developer. Currently I am on a journey to learn more about the MERN stack (MongoDB, Express, React, Node). </p>
+<h3 align="center">A Full Stack Developer & Graphic Designer</h3>
+<p align-"left> I am proficient in Front-End programming languages but my goal is to become a Full-Stack Developer. Currently I am on a journey to learn more about the MERN stack (MongoDB, Express, React, Node). When I am not designing or coding, I love to spend my free time hanging out with my two cats, playing video games or indulge in my favourite anime! </p>
 
-When I am not designing or coding, I love to spend my free time hanging out with my two cats, playing video games or indulge in my favourite anime!
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quindipc" alt="quindipc" /></a> </p>
 
