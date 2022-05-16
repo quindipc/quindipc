@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chelsea! I am a Graphic Designer & Software Developer. I am proficient in Front-End programming languages but my goal is to become a Full-Stack Developer. Currently I am on a journey to learn more about the MERN stack (MongoDB, Express, React, Node). When I am not designing or coding, I love to spend my free time hanging out with my two cats, playing video games or indulge in my favourite anime!</h1>
-<h3 align="center">A Full Stack Software Developer & Graphic Designer</h3>
+<h1 align="center">Hi 👋, I'm Chelsea!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quindipc&label=Profile%20views&color=0e75b6&style=flat" alt="quindipc" /> </p>
 
