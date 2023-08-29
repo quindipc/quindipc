@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **building more full stack applications**
 
-- 🌱 I’m currently learning **React, Node, Express, SQL**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **quindipc@gmail.com**
 
