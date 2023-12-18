@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **building more full stack applications**
 
-- 🌱 I’m currently learning **TypeScript** & **three.js**
+- 🌱 I’m currently learning **TypeScript**, **three.js**, **Godot**, & **GDScript**
 
 - 📫 How to reach me **quindipc@gmail.com**
 
