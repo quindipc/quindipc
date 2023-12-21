@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript, three.js, React Three Fiber, Godot & GDScript.**
 
-- 👨‍💻 All of my projects are available at [https://chelseaquindipan.ca/](https://chelseaquindipan.ca/)
+- 👨‍💻 View my portfolio at [https://chelseaquindipan.ca/](https://chelseaquindipan.ca/)
 
 - 📫 How to reach me **quindipc@gmail.com**
 
