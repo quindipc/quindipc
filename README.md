@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **building full stack applications & finding full time opportunities.**
 
-- 🌱 I’m currently learning **TypeScript, three.js, React Three Fiber, Godot & GDScript.**
-
 - 👨‍💻 View my portfolio at [https://chelseaquindipan.ca/](https://chelseaquindipan.ca/)
 
 - 📫 How to reach me **quindipc@gmail.com**
